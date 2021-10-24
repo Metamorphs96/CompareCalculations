@@ -1,0 +1,6 @@
+C:\Users\Conrad\Documents\scratchPad\CompareCalculation\VBnet\StructuralCalcs\StructuralCalcs\obj\Debug\StructuralCalcs.vbprojResolveAssemblyReference.cache
+C:\Users\Conrad\Documents\scratchPad\CompareCalculation\VBnet\StructuralCalcs\StructuralCalcs\bin\Debug\StructuralCalcs.exe.config
+C:\Users\Conrad\Documents\scratchPad\CompareCalculation\VBnet\StructuralCalcs\StructuralCalcs\bin\Debug\StructuralCalcs.exe
+C:\Users\Conrad\Documents\scratchPad\CompareCalculation\VBnet\StructuralCalcs\StructuralCalcs\bin\Debug\StructuralCalcs.pdb
+C:\Users\Conrad\Documents\scratchPad\CompareCalculation\VBnet\StructuralCalcs\StructuralCalcs\obj\Debug\StructuralCalcs.exe
+C:\Users\Conrad\Documents\scratchPad\CompareCalculation\VBnet\StructuralCalcs\StructuralCalcs\obj\Debug\StructuralCalcs.pdb

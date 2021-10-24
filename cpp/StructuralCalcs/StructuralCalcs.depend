@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583586756 source:c:\users\conrad\documents\scratchpad\comparecalculation\cpp\structuralcalcs\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+

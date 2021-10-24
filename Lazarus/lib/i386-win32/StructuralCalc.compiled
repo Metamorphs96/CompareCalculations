@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\Apps\FPC\3.0.4\bin\i386-Win32\fpc.exe" Date="1262918680"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\Users\Conrad\Documents\scratchPad\CompareCalculation\Lazarus\lib\i386-win32 -FuC:\Users\Conrad\Documents\scratchPad\CompareCalculation\Lazarus\ -FUC:\Users\Conrad\Documents\scratchPad\CompareCalculation\Lazarus\lib\i386-win32\ -FEC:\Users\Conrad\Documents\scratchPad\CompareCalculation\Lazarus\ -oC:\Users\Conrad\Documents\scratchPad\CompareCalculation\Lazarus\StructuralCalc.exe StructuralCalc.lpr"/>
+</CONFIG>

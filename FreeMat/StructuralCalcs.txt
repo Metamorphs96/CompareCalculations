@@ -1,0 +1,82 @@
+ FreeMat v4.2
+
+ Copyright (c) 2002-2008 by Samit Basu
+
+ Licensed under the GNU Public License (GPL)
+
+ Type <help license> to find out more
+
+      <helpwin> for online help
+
+      <pathtool> to set or change your path
+
+ Use <dbauto on/off> to control stop-on-error behavior
+
+ Use ctrl-b to stop execution of a function/script
+
+ JIT is enabled by default - use jitcontrol to change it
+
+ Use <rootpath gui> to set/change where the FreeMat toolb
+ox is installed
+
+--> Cpe=-0.7
+
+
+
+Cpe =
+
+   -0.7000
+
+
+
+--> qz=0.96
+
+
+
+qz =
+
+    0.9600
+
+
+
+--> pn=Cpe*qz
+
+
+
+pn =
+
+   -0.6720
+
+
+
+--> w=pn*3
+
+
+
+w =
+
+   -2.0160
+
+
+
+--> L=6
+
+
+
+L =
+
+ 6
+
+
+
+--> M=w*L^2/8
+
+
+
+M =
+
+   -9.0720
+
+
+
+-->

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?application progid="SMath Studio Desktop" version="0.97.5737.24521"?>
+<regions>
+  <settings>
+    <identity>
+      <id>5b1fa528-c694-4645-b687-3226f8180a38</id>
+      <revision>4</revision>
+    </identity>
+    <calculation>
+      <precision>4</precision>
+      <exponentialThreshold>5</exponentialThreshold>
+      <fractions>decimal</fractions>
+    </calculation>
+    <pageModel active="true" printAreas="true" simpleEqualsOnly="false" printBackgroundImages="true">
+      <paper id="1" orientation="Portrait" width="850" height="1100" />
+      <margins left="39" right="39" top="39" bottom="39" />
+      <header alignment="Center" color="#a9a9a9">&amp;[DATE] &amp;[TIME] - &amp;[FILENAME]</header>
+      <footer alignment="Center" color="#a9a9a9">&amp;[PAGENUM] / &amp;[COUNT]</footer>
+      <backgrounds />
+    </pageModel>
+    <dependencies>
+      <assembly name="SMath Studio Desktop" version="0.97.5737.24521" guid="a37cba83-b69c-4c71-9992-55ff666763bd" />
+      <assembly name="Math Region" version="0.97.5737.24521" guid="02f1ab51-215b-466e-a74d-5d8b1cf85e8d" />
+    </dependencies>
+  </settings>
+  <region id="0" left="45" top="18" width="86" height="24" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math decimalPlaces="2">
+      <input>
+        <e type="operand">Cpe</e>
+        <e type="operand">0.7</e>
+        <e type="operator" args="1">-</e>
+        <e type="operator" args="2">:</e>
+      </input>
+    </math>
+  </region>
+  <region id="1" left="45" top="36" width="76" height="24" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math decimalPlaces="2">
+      <input>
+        <e type="operand">qz</e>
+        <e type="operand">0.96</e>
+        <e type="operator" args="2">:</e>
+      </input>
+    </math>
+  </region>
+  <region id="2" left="45" top="54" width="91" height="24" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math decimalPlaces="2">
+      <input>
+        <e type="operand">pn</e>
+        <e type="operand">Cpe</e>
+        <e type="operand">qz</e>
+        <e type="operator" args="2">*</e>
+        <e type="operator" args="2">:</e>
+      </input>
+    </math>
+  </region>
+  <region id="3" left="45" top="72" width="66" height="24" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math decimalPlaces="2">
+      <input>
+        <e type="operand">w</e>
+        <e type="operand">pn</e>
+        <e type="operand">3</e>
+        <e type="operator" args="2">*</e>
+        <e type="operator" args="2">:</e>
+      </input>
+    </math>
+  </region>
+  <region id="4" left="45" top="90" width="43" height="24" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math decimalPlaces="2">
+      <input>
+        <e type="operand">L</e>
+        <e type="operand">6</e>
+        <e type="operator" args="2">:</e>
+      </input>
+    </math>
+  </region>
+  <region id="5" left="45" top="108" width="74" height="50" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math decimalPlaces="2">
+      <input>
+        <e type="operand">M</e>
+        <e type="operand">w</e>
+        <e type="operand">L</e>
+        <e type="operand">2</e>
+        <e type="operator" args="2">^</e>
+        <e type="operator" args="2">*</e>
+        <e type="operand">8</e>
+        <e type="operator" args="2">/</e>
+        <e type="operator" args="2">:</e>
+      </input>
+    </math>
+  </region>
+  <region id="6" left="45" top="162" width="87" height="24" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math decimalPlaces="2">
+      <input>
+        <e type="operand">M</e>
+      </input>
+      <result action="numeric">
+        <e type="operand">9.07</e>
+        <e type="operator" args="1">-</e>
+      </result>
+    </math>
+  </region>
+</regions>

@@ -1,0 +1,11 @@
+project StructuralCalcs is
+
+   package Ide is
+      for Compiler_Command ("ada") use "gnatmake";
+   end Ide;
+
+   for Main use ("structuralcalcs.adb");
+   for Source_Files use ("structuralcalcs.adb");
+
+end StructuralCalcs;
+

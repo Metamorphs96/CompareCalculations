@@ -1,0 +1,31 @@
+'
+' Copyright (c)2018 S C Harrison
+' Refer to License.txt for terms and conditions of use.
+'
+'Purpose:
+'Illustrate Structural Calculations using VBScript
+
+
+<job id="schPframe">
+
+	<script language="VBScript" src="ErrorHandlers.vbs"/>
+	<script language="VBScript" src="xdbAccess.vbs"/>
+	<script language="VBScript" src="StructuralCalcs10.vbs"/>
+
+
+<script language="VBScript">
+
+'------------------------------------------------------------------------------
+'MAIN
+'------------------------------------------------------------------------------
+
+cMain
+
+'==============================================================================
+'END MAIN
+'==============================================================================
+
+</script>
+</job>
+
+
